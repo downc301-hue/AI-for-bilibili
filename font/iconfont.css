@@ -1,0 +1,327 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 5245637 */
+  src: url('iconfont.woff2?t=1793234161808') format('woff2'),
+       url('iconfont.woff?t=1793234161808') format('woff'),
+       url('iconfont.ttf?t=1793234161808') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gemini:before {
+  content: "\e6df";
+}
+
+.icon-wxyy:before {
+  content: "\e6a8";
+}
+
+.icon-hunyuan:before {
+  content: "\e609";
+}
+
+.icon-Grok:before {
+  content: "\e667";
+}
+
+.icon-xiaomi:before {
+  content: "\e602";
+}
+
+.icon-meta:before {
+  content: "\eac0";
+}
+
+.icon-Qwen:before {
+  content: "\e63d";
+}
+
+.icon-yuanbao:before {
+  content: "\e781";
+}
+
+.icon-Mistral:before {
+  content: "\e607";
+}
+
+.icon-minimax:before {
+  content: "\e6f0";
+}
+
+.icon-Kimi:before {
+  content: "\e6c7";
+}
+
+.icon-GPT:before {
+  content: "\e61f";
+}
+
+.icon-Claude:before {
+  content: "\e619";
+}
+
+.icon-theme:before {
+  content: "\e605";
+}
+
+.icon-coin:before {
+  content: "\e600";
+}
+
+.icon-doubao1:before {
+  content: "\e601";
+}
+
+.icon-seedance:before {
+  content: "\eafe";
+}
+
+.icon-finish:before {
+  content: "\e606";
+}
+
+.icon-note:before {
+  content: "\e833";
+}
+
+.icon-check:before {
+  content: "\e71c";
+}
+
+.icon-target:before {
+  content: "\e62d";
+}
+
+.icon-sun:before {
+  content: "\e690";
+}
+
+.icon-like:before {
+  content: "\e86f";
+}
+
+.icon-close:before {
+  content: "\e60c";
+}
+
+.icon-night:before {
+  content: "\e68f";
+}
+
+.icon-track:before {
+  content: "\e608";
+}
+
+.icon-link:before {
+  content: "\ec7f";
+}
+
+.icon-circle:before {
+  content: "\ea6b";
+}
+
+.icon-comment:before {
+  content: "\e6d6";
+}
+
+.icon-deepseek1:before {
+  content: "\e603";
+}
+
+.icon-message:before {
+  content: "\e6b7";
+}
+
+.icon-work:before {
+  content: "\e6c0";
+}
+
+.icon-follow:before {
+  content: "\e60d";
+}
+
+.icon-bullet-chat:before {
+  content: "\e612";
+}
+
+.icon-upvote:before {
+  content: "\e656";
+}
+
+.icon-share:before {
+  content: "\e627";
+}
+
+.icon-favorite:before {
+  content: "\e642";
+}
+
+.icon-a-yijianfankuijibiji:before {
+  content: "\e6b5";
+}
+
+.icon-sound:before {
+  content: "\e6bc";
+}
+
+.icon-announcement:before {
+  content: "\e6bd";
+}
+
+.icon-home:before {
+  content: "\e6c5";
+}
+
+.icon-next:before {
+  content: "\e6ca";
+}
+
+.icon-pause:before {
+  content: "\e6cc";
+}
+
+.icon-class:before {
+  content: "\e6cf";
+}
+
+.icon-live:before {
+  content: "\e6d0";
+}
+
+.icon-setting:before {
+  content: "\e6d2";
+}
+
+.icon-delete:before {
+  content: "\e6d3";
+}
+
+.icon-edit:before {
+  content: "\e6d4";
+}
+
+.icon-warrning:before {
+  content: "\e6d5";
+}
+
+.icon-back2:before {
+  content: "\e6d8";
+}
+
+.icon-back:before {
+  content: "\e6d9";
+}
+
+.icon-close2:before {
+  content: "\e6da";
+}
+
+.icon-question:before {
+  content: "\e6dc";
+}
+
+.icon-close1:before {
+  content: "\e6de";
+}
+
+.icon-replay:before {
+  content: "\e6e0";
+}
+
+.icon-refresh:before {
+  content: "\e6e6";
+}
+
+.icon-agreement:before {
+  content: "\e6e7";
+}
+
+.icon-tag:before {
+  content: "\e6e8";
+}
+
+.icon-money:before {
+  content: "\e6ea";
+}
+
+.icon-share2:before {
+  content: "\e6ec";
+}
+
+.icon-loading:before {
+  content: "\e6ee";
+}
+
+.icon-more:before {
+  content: "\e6f1";
+}
+
+.icon-menu:before {
+  content: "\e6f2";
+}
+
+.icon-category:before {
+  content: "\e6f3";
+}
+
+.icon-search:before {
+  content: "\e716";
+}
+
+.icon-navigation:before {
+  content: "\e719";
+}
+
+.icon-VIP:before {
+  content: "\e71d";
+}
+
+.icon-rank:before {
+  content: "\e721";
+}
+
+.icon-discover:before {
+  content: "\e72c";
+}
+
+.icon-check-in:before {
+  content: "\e696";
+}
+
+.icon-history:before {
+  content: "\e6a1";
+}
+
+.icon-add:before {
+  content: "\e6a2";
+}
+
+.icon-calendar:before {
+  content: "\e6a3";
+}
+
+.icon-add2:before {
+  content: "\e6a4";
+}
+
+.icon-delete2:before {
+  content: "\e6a5";
+}
+
+.icon-position:before {
+  content: "\e6a6";
+}
+
+.icon-customer:before {
+  content: "\e6a7";
+}
+
+.icon-follow2:before {
+  content: "\e6aa";
+}
+

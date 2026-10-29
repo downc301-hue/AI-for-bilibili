@@ -1,0 +1,99 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build output
+dist/
+build/
+out/
+target/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.trae/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp
+*.tmp
+*.temp
+.cache/
+
+# ============================================================
+# 🧹 临时调试/补丁文件
+# ============================================================
+check-*.mjs
+fix-*.mjs
+test-*.mjs
+verify-*.mjs
+debug-*.mjs
+waste-analysis.mjs
+render-test.mjs
+
+page*.html
+page*.bin
+*.diff
+*_check.mjs
+_*.mjs
+_*.js
+patch-*.js
+echo-test.txt
+tool-test.txt
+verify_temp.txt
+$null
+
+diary-live.json
+tokens-live.json
+page-orig.html
+
+# ============================================================
+# 🔒 用户敏感数据（绝不能进 git）
+# ============================================================
+credentials.json
+credentials.local.json
+doubao-api-key.json
+ark-credentials.json
+
+.doubao-bot/
+.dsh/
+~/.doubao-bot/
+~/.dsh/
+~/.bili-ai/
+
+follow-processed.json
+scheduler-state.json
+tokens.json
+tasks.local.json
+config.local.json
+follow-config.local.json
+
+**/credentials*.json
+**/config.*.local
+**/*secret*
+**/*token*
+**/*cookie*
+**/*key*.json
+
+# 主账号关注列表（包含真实 UID 和昵称）
+owner-followings.json
+
+# 用户本地文章
+article/
