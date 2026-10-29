@@ -10,7 +10,6 @@
 
 Web UI 内置 **15 个主流 AI 品牌图标**，点击即可切换分身人格，区别于其他开源 B 站机器人：
 
-| :---: | :---: | :---: | :---: | :---: |
 |:---:|:---:|:---:|:---:|:---:|
 | ![Doubao](logo/doubao.png) Doubao | ![GPT](logo/gpt.png) GPT | ![Claude](logo/claude.png) Claude | ![DeepSeek](logo/deepseek.png) DeepSeek | ![Gemini](logo/gemini.png) Gemini |
 | ![Kimi](logo/kimi.png) Kimi | ![Qwen](logo/qwen.png) 通义千问 | ![Meta](logo/meta.png) Meta | ![Grok](logo/grok.png) Grok | ![MiniMax](logo/minimax.png) MiniMax |
