@@ -10,10 +10,29 @@
 
 Web UI 内置 **15 个主流 AI 品牌图标**，点击即可切换分身人格，区别于其他开源 B 站机器人：
 
-|:---:|:---:|:---:|:---:|:---:|
-| ![Doubao](logo/doubao.png) Doubao | ![GPT](logo/gpt.png) GPT | ![Claude](logo/claude.png) Claude | ![DeepSeek](logo/deepseek.png) DeepSeek | ![Gemini](logo/gemini.png) Gemini |
-| ![Kimi](logo/kimi.png) Kimi | ![Qwen](logo/qwen.png) 通义千问 | ![Meta](logo/meta.png) Meta | ![Grok](logo/grok.png) Grok | ![MiniMax](logo/minimax.png) MiniMax |
-| ![RWKV](logo/rwkv.png) RWKV | ![WXY](logo/wxyy.png) 文心一言 | ![Hunyuan](logo/hunyuan.png) 腾讯混元 | ![Mistral](logo/mistral.png) Mistral | ![Xiaomi](logo/xiaomi.png) 小米 |
+<table>
+<tr>
+<td align="center"><img src="logo/doubao.png" width="80" height="80"><br><b>Doubao</b></td>
+<td align="center"><img src="logo/gpt.png" width="80" height="80"><br><b>GPT</b></td>
+<td align="center"><img src="logo/claude.png" width="80" height="80"><br><b>Claude</b></td>
+<td align="center"><img src="logo/deepseek.png" width="80" height="80"><br><b>DeepSeek</b></td>
+<td align="center"><img src="logo/gemini.png" width="80" height="80"><br><b>Gemini</b></td>
+</tr>
+<tr>
+<td align="center"><img src="logo/kimi.png" width="80" height="80"><br><b>Kimi</b></td>
+<td align="center"><img src="logo/qwen.png" width="80" height="80"><br><b>通义千问</b></td>
+<td align="center"><img src="logo/meta.png" width="80" height="80"><br><b>Meta</b></td>
+<td align="center"><img src="logo/grok.png" width="80" height="80"><br><b>Grok</b></td>
+<td align="center"><img src="logo/minimax.png" width="80" height="80"><br><b>MiniMax</b></td>
+</tr>
+<tr>
+<td align="center"><img src="logo/rwkv.png" width="80" height="80"><br><b>RWKV</b></td>
+<td align="center"><img src="logo/wxyy.png" width="80" height="80"><br><b>文心一言</b></td>
+<td align="center"><img src="logo/hunyuan.png" width="80" height="80"><br><b>腾讯混元</b></td>
+<td align="center"><img src="logo/mistral.png" width="80" height="80"><br><b>Mistral</b></td>
+<td align="center"><img src="logo/xiaomi.png" width="80" height="80"><br><b>小米</b></td>
+</tr>
+</table>
 
 > 💡 **什么是 AI 形象？** 它不是简单的图片——形象决定两件事：
 > 1. **Web UI 侧栏显示**的是哪个品牌头像
