@@ -309,8 +309,7 @@ AI-for-bilibili/
 │   └── bili.mjs                  # 工具注册中心
 ├── scripts/                      # 初始化 / 配置脚本
 ├── public/                       # Web UI 静态资源（原生 JS + CSS）
-│   ├── mascot/                   # 15 个 AI 品牌头像（doubao/gpt/claude/deepseek...）
-│   ├── app.*.js                  # 各 Tab 前端逻辑
+│   ├── app.*.js                  # 各 Tab 前端逻辑（app.brand.js 管品牌设置面板）
 │   └── main.css                  # 样式
 ├── font/                         # 图标字体
 ├── ecosystem.config.cjs          # PM2 配置（cwd 用 __dirname 自动适配）
@@ -391,24 +390,24 @@ const LOGO_ALIAS = {
 
 ```
 src/follow-await.mjs
-  → 搜索 "mascot" 或 "brand"
+  → 搜索 "brand" 或 "形象"
   → 找到根据形象 id 选择不同 prompt 的逻辑
   → 修改对应品牌的风格描述词
 ```
 
 ### 想删/禁用某个品牌？
 
-从 `public/mascot/` 删掉 PNG → 从 `app.mascot.js` 的 MASCOTS 数组删掉对应行 → 刷新浏览器即可。
+从 `logo/` 删掉 PNG → 从 `public/app.brand.js` 的 LOGOS 数组删掉对应行 → 刷新浏览器即可。
 
 ### 快速总结
 
 | 你想做的 | 改哪个文件 | 具体操作 |
 |---------|-----------|---------|
 | 换已有的 15 个品牌 | Web UI 点齿轮按钮 | 不用改代码 |
-| 加新品牌 | `public/mascot/` 放 PNG + `public/app.mascot.js` 加一行 | 上面三步 |
-| 换品牌头像（不换名字） | 替换 `public/mascot/品牌id.png` 同名覆盖 | 刷新浏览器 |
+| 加新品牌 | `logo/` 放 PNG + `public/app.brand.js` 加一行 + `src/web.mjs` 加 alias | 上面三步 |
+| 换品牌头像（不换名字） | 替换 `logo/品牌id.png` 同名覆盖 | 刷新浏览器 |
 | 改性格风格 | `src/follow-await.mjs` 改 prompt 里的风格词 | 重启 follow-await 进程 |
-| 删品牌 | 删 PNG + 删 `app.mascot.js` 里的那行 | 刷新浏览器 |
+| 删品牌 | 删 `logo/` PNG + 删 `app.brand.js` 里的那行 | 刷新浏览器 |
 
 ---
 
