@@ -12,25 +12,46 @@ Web UI 内置 **15 个主流 AI 品牌图标**，点击即可切换分身人格�
 
 <table>
 <tr>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/doubao.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Doubao</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/gpt.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">GPT</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/claude.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Claude</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/deepseek.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">DeepSeek</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/gemini.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Gemini</span></td>
+<td align="center" style="padding:10px"><img src="logo/doubao.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/gpt.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/claude.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/deepseek.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/gemini.png" width="80" height="80"></td>
 </tr>
 <tr>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/kimi.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Kimi</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/qwen.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">通义千问</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/meta.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Meta</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/grok.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Grok</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/minimax.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">MiniMax</span></td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">Doubao</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">GPT</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">Claude</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">DeepSeek</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">Gemini</td>
 </tr>
 <tr>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/rwkv.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">RWKV</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/wxyy.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">文心一言</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/hunyuan.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">腾讯混元</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/mistral.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Mistral</span></td>
-<td align="center" style="padding:12px;white-space:nowrap"><img src="logo/xiaomi.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">小米</span></td>
+<td align="center" style="padding:10px"><img src="logo/kimi.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/qwen.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/meta.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/grok.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/minimax.png" width="80" height="80"></td>
+</tr>
+<tr>
+<td align="center" style="padding-bottom:14px;font-weight:bold">Kimi</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">通义千问</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">Meta</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">Grok</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">MiniMax</td>
+</tr>
+<tr>
+<td align="center" style="padding:10px"><img src="logo/rwkv.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/wxyy.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/hunyuan.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/mistral.png" width="80" height="80"></td>
+<td align="center" style="padding:10px"><img src="logo/xiaomi.png" width="80" height="80"></td>
+</tr>
+<tr>
+<td align="center" style="padding-bottom:14px;font-weight:bold">RWKV</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">文心一言</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">腾讯混元</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">Mistral</td>
+<td align="center" style="padding-bottom:14px;font-weight:bold">小米</td>
 </tr>
 </table>
 
