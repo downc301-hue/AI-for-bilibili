@@ -12,25 +12,25 @@ Web UI 内置 **15 个主流 AI 品牌图标**，点击即可切换分身人格�
 
 <table>
 <tr>
-<td align="center"><img src="logo/doubao.png" width="80" height="80"><br><b>Doubao</b></td>
-<td align="center"><img src="logo/gpt.png" width="80" height="80"><br><b>GPT</b></td>
-<td align="center"><img src="logo/claude.png" width="80" height="80"><br><b>Claude</b></td>
-<td align="center"><img src="logo/deepseek.png" width="80" height="80"><br><b>DeepSeek</b></td>
-<td align="center"><img src="logo/gemini.png" width="80" height="80"><br><b>Gemini</b></td>
+<td align="center" style="padding:12px"><img src="logo/doubao.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Doubao</span></td>
+<td align="center" style="padding:12px"><img src="logo/gpt.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">GPT</span></td>
+<td align="center" style="padding:12px"><img src="logo/claude.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Claude</span></td>
+<td align="center" style="padding:12px"><img src="logo/deepseek.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">DeepSeek</span></td>
+<td align="center" style="padding:12px"><img src="logo/gemini.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Gemini</span></td>
 </tr>
 <tr>
-<td align="center"><img src="logo/kimi.png" width="80" height="80"><br><b>Kimi</b></td>
-<td align="center"><img src="logo/qwen.png" width="80" height="80"><br><b>通义千问</b></td>
-<td align="center"><img src="logo/meta.png" width="80" height="80"><br><b>Meta</b></td>
-<td align="center"><img src="logo/grok.png" width="80" height="80"><br><b>Grok</b></td>
-<td align="center"><img src="logo/minimax.png" width="80" height="80"><br><b>MiniMax</b></td>
+<td align="center" style="padding:12px"><img src="logo/kimi.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Kimi</span></td>
+<td align="center" style="padding:12px"><img src="logo/qwen.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">通义千问</span></td>
+<td align="center" style="padding:12px"><img src="logo/meta.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Meta</span></td>
+<td align="center" style="padding:12px"><img src="logo/grok.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Grok</span></td>
+<td align="center" style="padding:12px"><img src="logo/minimax.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">MiniMax</span></td>
 </tr>
 <tr>
-<td align="center"><img src="logo/rwkv.png" width="80" height="80"><br><b>RWKV</b></td>
-<td align="center"><img src="logo/wxyy.png" width="80" height="80"><br><b>文心一言</b></td>
-<td align="center"><img src="logo/hunyuan.png" width="80" height="80"><br><b>腾讯混元</b></td>
-<td align="center"><img src="logo/mistral.png" width="80" height="80"><br><b>Mistral</b></td>
-<td align="center"><img src="logo/xiaomi.png" width="80" height="80"><br><b>小米</b></td>
+<td align="center" style="padding:12px"><img src="logo/rwkv.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">RWKV</span></td>
+<td align="center" style="padding:12px"><img src="logo/wxyy.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">文心一言</span></td>
+<td align="center" style="padding:12px"><img src="logo/hunyuan.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">腾讯混元</span></td>
+<td align="center" style="padding:12px"><img src="logo/mistral.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">Mistral</span></td>
+<td align="center" style="padding:12px"><img src="logo/xiaomi.png" width="80" height="80" style="display:block;margin:0 auto"><span style="display:block;margin-top:8px;font-weight:bold">小米</span></td>
 </tr>
 </table>
 
